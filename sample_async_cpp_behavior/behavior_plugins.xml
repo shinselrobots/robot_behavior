@@ -1,0 +1,5 @@
+<library path="lib/libsample_async_cpp_behavior">
+  <class name="behavior_plugin/SampleAsyncCppBehaviorPlugin" type="behavior_plugin::SampleAsyncCppBehaviorPlugin" base_class_type="behavior_common::BehaviorPlugin">
+    <description>Sample Async C++ Behavior plugin</description>
+  </class>
+</library>

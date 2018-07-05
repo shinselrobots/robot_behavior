@@ -1,0 +1,5 @@
+<library path="lib/libsample_python_behavior">
+  <class name="behavior_plugin/SamplePythonBehaviorPlugin" type="sample_python_behavior" base_class_type="behavior_common::BehaviorPlugin">
+    <description>Sample Python Behavior plugin</description>
+  </class>
+</library>

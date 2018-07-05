@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="behavior_common" type="behavior_loader" name="behavior_common_node" output="screen"/>
+</launch>

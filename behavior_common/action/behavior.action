@@ -1,0 +1,9 @@
+#goal definition
+string param1
+string param2
+---
+#result definition
+bool complete
+---
+#feedback
+bool running 
